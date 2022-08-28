@@ -1,1 +1,14 @@
+
+/* Title */
+#title {
+    background-color: black;
+    color: #fff;
+    padding: 0% 0% 5%;
+}
+
+/* Classes */
+
 /* Navbar */
+.navbar {
+    padding: 0% 7%;
+}
