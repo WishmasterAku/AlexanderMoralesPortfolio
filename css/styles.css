@@ -7,8 +7,10 @@
 }
 
 /* Classes */
-
-/* Navbar */
-.navbar {
-    padding: 0% 7%;
+.heading {
+    padding: 5% 5% 0%
 }
+.imageofme {
+    border-radius: 100%;
+}
+/* Navbar */
